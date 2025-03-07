@@ -1,0 +1,10 @@
+C:\Users\Matheus\source\repos\paginaCamisas\paginaCamisas\bin\Debug\paginaCamisas.exe.config
+C:\Users\Matheus\source\repos\paginaCamisas\paginaCamisas\bin\Debug\paginaCamisas.exe
+C:\Users\Matheus\source\repos\paginaCamisas\paginaCamisas\bin\Debug\paginaCamisas.pdb
+C:\Users\Matheus\source\repos\paginaCamisas\paginaCamisas\obj\Debug\paginaCamisas.csproj.AssemblyReference.cache
+C:\Users\Matheus\source\repos\paginaCamisas\paginaCamisas\obj\Debug\paginaCamisas.Properties.Resources.resources
+C:\Users\Matheus\source\repos\paginaCamisas\paginaCamisas\obj\Debug\paginaCamisas.csproj.GenerateResource.cache
+C:\Users\Matheus\source\repos\paginaCamisas\paginaCamisas\obj\Debug\paginaCamisas.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\paginaCamisas\paginaCamisas\obj\Debug\paginaCamisas.exe
+C:\Users\Matheus\source\repos\paginaCamisas\paginaCamisas\obj\Debug\paginaCamisas.pdb
+C:\Users\Matheus\source\repos\paginaCamisas\paginaCamisas\obj\Debug\paginaCamisas.Camisas.resources
