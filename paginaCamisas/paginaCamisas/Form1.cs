@@ -59,6 +59,14 @@ namespace paginaCamisas
         private void button4_Click(object sender, EventArgs e) { }
         private void button2_Click(object sender, EventArgs e) { }
 
+        private void button13_Click(object sender, EventArgs e)
+        {
 
+        }
+
+        private void pictureBox13_Click(object sender, EventArgs e)
+        {
+          carrinho.Click +=
+        }
     }
 }

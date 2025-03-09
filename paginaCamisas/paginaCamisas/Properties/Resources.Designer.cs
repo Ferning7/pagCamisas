@@ -183,6 +183,26 @@ namespace paginaCamisas.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_carrinho_30 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-carrinho-30", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_carrinho_30_1 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-carrinho-30_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap masculino_camisa_masculina_social_tradicional_manga_longa_jeans_santore__p_1670506465763 {
             get {
                 object obj = ResourceManager.GetObject("masculino-camisa-masculina-social-tradicional-manga-longa-jeans-santore--p-167050" +
